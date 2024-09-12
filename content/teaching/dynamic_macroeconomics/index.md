@@ -17,4 +17,4 @@ publication_types = "Université Lumière Lyon "
 
 **Coordinator:**  Rym Aloui. 
 
-***Course taught during the 2021-2022 academic year. Total number of hours: 35.***
+***Course taught during the 2021-2022 academic year (1st semester). Total number of hours: 35.***

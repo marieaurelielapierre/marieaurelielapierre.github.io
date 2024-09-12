@@ -49,7 +49,7 @@
     {% if bibtags.volume -%}{{ trans(key="volume", lang=lang) }} {{ bibtags.volume }}{{ sep }}{% endif -%}
     {% if bibtags.number -%}{{ trans(key="number", lang=lang) }} {{ bibtags.number }}{{ sep }}{% endif -%}
     {% if bibtags.pages -%}{{ trans(key="pages", lang=lang) }} {{ bibtags.pages | replace(from="--", to="&ndash;") | safe }}{{ sep }}{% endif -%}
-    {{ page.date | date(format="%B %Y") -}}
+    {{ page.year -}}
     {% if bibtags.doi -%}{{ sep -}}
       {% if links_allowed-%}<a href="https://doi.org/{{bibtags.doi}}" target="_blank">{%endif-%}
       doi: {{ bibtags.doi -}}

@@ -17,4 +17,4 @@ publication_types = "CY Cergy Paris Université"
 
 **Coordinators:** Thomas Brodaty and Agustín Pérez-Barahona. 
 
-***Course taught during the 2023-2024 academic year. Total number of hours: 45.***
+***Course taught during the 2023-2024 academic year (1st semester). Total number of hours: 45.***

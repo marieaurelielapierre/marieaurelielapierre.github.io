@@ -17,4 +17,4 @@ publication_types = "Université Lumière Lyon "
 
 **Coordinator:**  Walid Hichri. 
 
-***Course taught in the 2022-2023 academic year. Total number of hours: 26.***
+***Course taught in the 2022-2023 academic year (2nd semester). Total number of hours: 26.***
