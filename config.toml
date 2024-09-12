@@ -1,6 +1,6 @@
 
 # config.toml
-base_url = "https://marieaurelielapierre.com"
+base_url = "https://marieaurelielapierre.github.io"
 theme = "kodama-theme"
 compile_sass = true
 build_search_index = true
