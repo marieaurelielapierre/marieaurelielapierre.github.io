@@ -1,6 +1,6 @@
 +++
 title = "Principles of Macroeconomics"
-date = 2023-09-01
+date = 2025-01-01
 
 [extra]
 authors = ["Undergraduate level (1st year)"]
@@ -17,4 +17,4 @@ publication_types = "CY Cergy Paris Université"
 
 **Coordinators:** Thomas Brodaty and Agustín Pérez-Barahona. 
 
-***Course taught during the 2023-2024 academic year (1st semester). Total number of hours: 45.***
+***Course taught during the 2023-2024 academic year (1st semester) and 2024-2025 academic year (2nd semester). Total number of hours: 90.***

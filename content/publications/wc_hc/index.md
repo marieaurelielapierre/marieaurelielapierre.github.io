@@ -1,10 +1,10 @@
 +++
-title = "Why are low-skilled not as compensated as expected for higher housing costs?"
-date = 2024-08-27
+title = "Wage compensation for housing costs: are skilled and unskilled workers equal?"
+date = 2025-03-04
 
 [extra]
 authors = ["Marie Aurélie Lapierre"]
-year = 2024
+year = 2025
 type = "wip"
 publication_types = "Work in progress"
 #url_pdf = "path to wp"
@@ -15,11 +15,14 @@ publication_types = "Work in progress"
 
 
 <p align="justify"> 
-Standard urban economics models tell us that wages are higher in large cities due to agglomeration economies, but that the concentration of economic agents in these large cities raises housing prices.
-In equilibrium, wages should compensate for spatial differences in housing costs, real wages should be equal across cities of different sizes, and workers should be perfectly mobile.
-When considering heterogeneous agents (high-skilled, low-skilled), these models imply that, due to a higher housing cost burden for the low-skilled, the latter should be relatively more compensated than the high-skilled in expensive areas. 
-However, using French data on wages and housing costs, I find that this compensation mechanism does not seem to work anymore in the recent period.  The aim of this article is firstly to provide a robust measure of the level of these wage differentials and their evolution over time and, secondly, to highlight the factors that may explain the lower remuneration of the low-skilled.
-Several sets of explanations are considered.  Labor market frictions in costly cities could be more detrimental to low-skilled workers. The latter may have fewer external options, and hence less bargaining power, than high-skilled workers in these cities due to (i) their higher local unemployment rate and (ii) the fact that local labor markets are more monopsonistic for them. 
-Mobility frictions may also be greater in costly cities for the low-skilled: (i) who are more dependent on their local networks; (ii) for whom it is more difficult to find employment in lower-cost and more remote cities; (iii) who may suffer more from housing market rigidities (the "locked-in" effect associated with social housing). 
-A final family of explanations focuses on the role of housing subsidies for low-skilled workers in the compensation system.
+Standard urban economics models tell us that wages are higher in large cities due to agglomeration economies, but that the concentration of economic agents in these large cities 
+raises housing prices. In equilibrium, wages should compensate for spatial differences in housing costs, real wages should be equal across cities of different sizes, and workers 
+should be perfectly mobile. When considering heterogeneous agents (high-skilled, low-skilled), these models imply that, due to a higher housing cost burden for the low-skilled, 
+the latter should be relatively more compensated than the high-skilled in expensive areas. These conclusions are however based on specific assumptions 
+(perfect mobility, homogeneity of workers within skill levels, no frictions). Recent work on real wage inequalities, differences in standards of living across cities, 
+or real income net of housing costs also suggests that the relationship could go in the other direction (Albouy, 2016; Chen et al., 2023; Diamond & Moretti, 2024; Card et al., 2025). 
+The aim of this article is to provide a robust measure of the level of relative wage compensation for housing costs between skill levels, and their evolution over time. 
+Using France as a case study, this article develops an empirical method that involves: (i) a housing cost index that comprises the three segments of the housing market; 
+(ii) a specific approach to control for spatial sorting across cities; (iii) an innovative bootstrap procedure. I find that low-skilled workers are less compensated than high-skilled
+ workers and that this difference increases over the 2011-2020 period. The results are robust to controlling for potential reverse causality and agglomeration economies effect.
 </p>

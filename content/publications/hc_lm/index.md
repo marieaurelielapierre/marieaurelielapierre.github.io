@@ -15,8 +15,10 @@ publication_types = "Work in progress"
 
 
 <p align="justify"> 
-This article aims to assess the consequences of high housing costs on labor market disparities between high-skilled and low-skilled workers, with the aim of shedding light on the issue of the affordable housing deficit. 
-We implement an inter-city analysis in which we compare differences in outcomes between high-skilled and low-skilled based on intra-city mechanisms in line with urban labor models (Zenou, 2009). 
-We use French administrative data to follow the labor market trajectories of employees over the period 2010-2018, and precise data on housing costs. We focus for now on two outcomes: the stability of the contract and the probability of promotions.  
-At the empirical level, an instrumental variable technique is deployed to cope with the endogeneity between the housing and the labor market, while a 'two-step approach' is used to control for the non-random spatial sorting of individuals across cities.
+The aim of this article is to assess the impact of high housing costs on labor market differentials between high-skilled and low-skilled workers, with a goal of shedding 
+light on the issue of affordable housing deficit. We conduct an inter-city analysis, comparing differences in outcomes between high- and low-skilled workers based 
+on intra-city mechanisms, in line with urban labor models (Zenou, 2009). We use French administrative data to follow the labor market trajectories of workers over 
+the period 2010-2018, as well as precise data on housing costs. We focus for now on two outcomes: the stability of the contract and the probability of promotion.
+ At the empirical level, we employ instrumental variable techniques to deal with the endogeneity between the housing and labor markets, and a ''two-stage approach'' 
+ to control for the non-random spatial sorting of individuals across cities.
 </p>

@@ -1,10 +1,10 @@
 +++
 title = "Neighborhood effects in Job search behaviors"
-date = 2024-08-28
+date = 2025-03-05
 
 [extra]
 authors = ["Florence Goffette-Nagot, Marie Aurélie Lapierre"]
-year = 2024
+year = 2025
 type = "wip"
 publication_types = "Work in progress"
 #url_pdf = "path to wp"
