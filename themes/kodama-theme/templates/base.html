@@ -21,7 +21,7 @@
   {% block user_head -%}
   {% endblock user_head -%}
 
-  <title>{% if section -%}{{ section.title }}  {% endif %} {{ config.title }}</title> 
+  <title>{% if section -%}{{ section.title }} |{% endif %} {{ config.title }}</title> 
 
   {% block head -%}
     {% block css -%}
