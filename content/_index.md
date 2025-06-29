@@ -5,15 +5,21 @@ page_template="page.html"
 sort_by="weight"
 
 [extra]
-title = "PhD candidate"
+title = "PhD Graduate"
 
 interests = [
   "Urban economics",
   "Labor economics",
   "Peer effects", 
   "Housing market", 
-  "Microeconometrics"
+  "Microeconometrics", 
+  "Inequalities"
 ]
+
+[[extra.education.courses]]
+  course = "PhD in Economics"
+  institution = "Université Lumière Lyon 2"
+  year = 2025
 
 [[extra.education.courses]]
   course = "Master in Economic Analysis"
@@ -21,21 +27,17 @@ interests = [
   year = 2020
 
 [[extra.education.courses]]
-  course = "Bachelor in Economics"
+  course = "Double Bachelor in Economics and Political Science"
   institution = "Université Lumière Lyon 2"
   year = 2017
 
-[[extra.education.courses]]
-  course = "Bachelor in Political Science"
-  institution = "Université Lumière Lyon 2"
-  year = 2017
 
 [[extra.avatar_icons]]
   icon = "github"
   link = "https://github.com/adfaure"
 +++
 <p align="justify"> 
-Welcome to my website! I am Marie Aurélie Lapierre, a PhD candidate at Université Lumière Lyon 2 and <a href="https://www.gate.cnrs.fr/en/">GATE-LSE</a>, under the supervision of <a href="https://economie.ens-lyon.fr/en/about-us/our-people/florence-goffette-nagot">Florence Goffette-Nagot</a>. I am also a Temporary Lecturer at CY Cergy Paris Université and <a href="https://thema.u-cergy.fr/">Thema</a>.
+Welcome to my website! I am Marie Aurélie Lapierre. I have just defended my PhD in Economics at Université Lumière Lyon 2 and <a href="https://www.gate.cnrs.fr/en/">GATE-LSE</a>, where I was supervised by <a href="https://economie.ens-lyon.fr/en/about-us/our-people/florence-goffette-nagot">Florence Goffette-Nagot</a>. I am also a Temporary Lecturer at CY Cergy Paris Université and <a href="https://thema.u-cergy.fr/">THEMA</a>.
 </p>
 
 <p align="justify"> 

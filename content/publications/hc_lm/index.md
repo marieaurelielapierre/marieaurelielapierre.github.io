@@ -15,10 +15,7 @@ publication_types = "Work in progress"
 
 
 <p align="justify"> 
-The aim of this article is to assess the impact of high housing costs on labor market differentials between high-skilled and low-skilled workers, with a goal of shedding 
-light on the issue of affordable housing deficit. We conduct an inter-city analysis, comparing differences in outcomes between high- and low-skilled workers based 
-on intra-city mechanisms, in line with urban labor models (Zenou, 2009). We use French administrative data to follow the labor market trajectories of workers over 
-the period 2010-2018, as well as precise data on housing costs. We focus for now on two outcomes: the stability of the contract and the probability of promotion.
- At the empirical level, we employ instrumental variable techniques to deal with the endogeneity between the housing and labor markets, and a ''two-stage approach'' 
- to control for the non-random spatial sorting of individuals across cities.
+This paper addresses the question of the impact of housing costs on workers' labor market outcomes. We provide empirical evidence of the influence of housing costs on labor market disparities between high-skilled and low-skilled workers in French urban areas during the period 2010-2018. We focus on two labor market outcomes: the likelihood of having a long-term employment contract and job promotions. We use French administrative data to follow the labor market trajectories of workers as well as precise data on housing costs. We implement a between-city analysis along with a ''two-stage approach'' to control for the non-random spatial sorting of individuals across cities. We also use instrumental variable techniques to deal with the endogeneity between the housing and labor markets. Our findings reveal that higher housing prices increase labor market disparities between skills regarding the probability of holding a long-term employment contract. 
+ These disparities are more pronounced for workers aged 35 or above and seem to be especially driven by low-skilled women. 
+ We do not find any significant influence on job promotion.
 </p>
