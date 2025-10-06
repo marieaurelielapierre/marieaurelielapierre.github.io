@@ -5,7 +5,7 @@ page_template="page.html"
 sort_by="weight"
 
 [extra]
-title = "PhD Graduate"
+title = "Postdoc Researcher"
 
 interests = [
   "Urban economics",
@@ -37,7 +37,7 @@ interests = [
   link = "https://github.com/adfaure"
 +++
 <p align="justify"> 
-Welcome to my website! I am Marie Aurélie Lapierre. I have just defended my PhD in Economics at Université Lumière Lyon 2 and <a href="https://www.gate.cnrs.fr/en/">GATE-LSE</a>, where I was supervised by <a href="https://economie.ens-lyon.fr/en/about-us/our-people/florence-goffette-nagot">Florence Goffette-Nagot</a>. I am also a Temporary Lecturer at CY Cergy Paris Université and <a href="https://thema.u-cergy.fr/">THEMA</a>.
+Welcome to my website! I am Marie Aurélie Lapierre. I am a postdoctoral researcher at Université Paris Dauphine-PSL (<a href="https://leda.dauphine.fr/">LEDa</a>), under <a href="https://sites.google.com/view/laurakhoury/home">Laura Khoury</a>'s Junior Professor Chair. I have recently obtained my PhD from Université Lumière Lyon 2 and <a href="https://www.gate.cnrs.fr/en/">GATE-LSE</a>, under the supervision of <a href="https://economie.ens-lyon.fr/en/about-us/our-people/florence-goffette-nagot">Florence Goffette-Nagot</a>. I was previously a Temporary Lecturer at CY Cergy Paris Université and <a href="https://thema.u-cergy.fr/">THEMA</a>.
 </p>
 
 <p align="justify"> 
