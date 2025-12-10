@@ -1,5 +1,5 @@
 +++
-date = 2024-08-28
+#date = 2024-08-28
 title = "Research"
 sort_by = "date"
 template = "publications.html"
@@ -14,7 +14,7 @@ extra.publications_types = [
   #{ title = "Journal articles", type = "journals" },
   #{ title = "Thesis", type = "thesis" },
   #{ title = "Conferences and workshops ", type = "conferences" },
+  { title = "Working papers", type = "wp" },
   { title = "Work in progress", type = "wip" },
-  #{ title = "Working papers", type = "wp" },
 ]
 +++

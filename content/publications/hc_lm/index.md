@@ -1,10 +1,10 @@
 +++
 title = "The impact of housing costs on labor market trajectories"
-date = 2024-06-08
+date = 2025-06-25
 
 [extra]
 authors = ["Marie Aurélie Lapierre", "Ghizlen Ouasbaa Azzouani"]
-year = 2024
+year = 2025
 type = "wip"
 publication_types = "Work in progress"
 #url_pdf = "path to wp"
@@ -15,7 +15,8 @@ publication_types = "Work in progress"
 
 
 <p align="justify"> 
-This paper addresses the question of the impact of housing costs on workers' labor market outcomes. We provide empirical evidence of the influence of housing costs on labor market disparities between high-skilled and low-skilled workers in French urban areas during the period 2010-2018. We focus on two labor market outcomes: the likelihood of having a long-term employment contract and job promotions. We use French administrative data to follow the labor market trajectories of workers as well as precise data on housing costs. We implement a between-city analysis along with a ''two-stage approach'' to control for the non-random spatial sorting of individuals across cities. We also use instrumental variable techniques to deal with the endogeneity between the housing and labor markets. Our findings reveal that higher housing prices increase labor market disparities between skills regarding the probability of holding a long-term employment contract. 
- These disparities are more pronounced for workers aged 35 or above and seem to be especially driven by low-skilled women. 
- We do not find any significant influence on job promotion.
+This article examines the extent to which housing costs shape workers’ labor market trajectories. We provide empirical evidence showing that housing prices contribute to widening labor market disparities between high-skilled and low-skilled workers in French cities. We focus on two key outcomes: the probability of obtaining a permanent contract and the probability of being promoted. Our analysis uses an interurban framework and draws on rich French administrative data that track workers’ careers between 2010 and 2018, combined with detailed data on housing prices. 
+To account for the non-random spatial sorting of individuals across cities, we implement a two-step approach à la Combes et al. (2008). This strategy is complemented by instrumental variable techniques that address endogeneity between housing and labor markets. Our results show that high housing prices exacerbate inequalities in access to permanent contracts between skill levels, an effect that is particularly pronounced among workers aged 35 and over and largely driven by low-skilled women. We do not find any significant effect on job promotions.
 </p>
+
+**Draft available upon request**
