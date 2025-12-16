@@ -22,5 +22,3 @@ The results reveal two distinct periods: (i) a first 2012-2015 period in which b
 housing mitigates part of this divergence: excluding social housing from the index amplifies the estimated gap in compensation. 
 This paper thus contributes to the understanding of affordable housing issues in France by highlighting a crucial yet often overlooked dimension: the unequal wage compensation for housing costs across skill levels.
 </p>
-
-**Manuscript available upon request** 

@@ -19,4 +19,3 @@ This article examines the extent to which housing costs shape workers’ labor m
 To account for the non-random spatial sorting of individuals across cities, we implement a two-step approach à la Combes et al. (2008). This strategy is complemented by instrumental variable techniques that address endogeneity between housing and labor markets. Our results show that high housing prices exacerbate inequalities in access to permanent contracts between skill levels, an effect that is particularly pronounced among workers aged 35 and over and largely driven by low-skilled women. We do not find any significant effect on job promotions.
 </p>
 
-**Draft available upon request**
