@@ -37,9 +37,13 @@ interests = [
   link = "https://github.com/adfaure"
 +++
 <p align="justify"> 
-Welcome to my website! I am Marie Aurélie Lapierre. I am a postdoctoral researcher at Université Paris Dauphine-PSL (<a href="https://leda.dauphine.fr/">LEDa</a>), under <a href="https://sites.google.com/view/laurakhoury/home">Laura Khoury</a>'s Junior Professor Chair. I have recently obtained my PhD from Université Lumière Lyon 2 and <a href="https://www.gate.cnrs.fr/en/">GATE-LSE</a>, under the supervision of <a href="https://www.cergic-lyon.fr/florence-goffette-nagot">Florence Goffette-Nagot</a>. I was previously a Temporary Lecturer at CY Cergy Paris Université and <a href="https://thema.u-cergy.fr/">THEMA</a>.
+Welcome to my website! I am Marie Aurélie Lapierre, a postdoctoral researcher at Université Paris Dauphine-PSL (<a href="https://leda.dauphine.fr/">LEDa</a>), under <a href="https://sites.google.com/view/laurakhoury/home">Laura Khoury</a>'s Junior Professor Chair. I recently obtained my PhD from Université Lumière Lyon 2 and <a href="https://www.gate.cnrs.fr/en/">GATE-LSE</a>, under the supervision of <a href="https://www.cergic-lyon.fr/florence-goffette-nagot">Florence Goffette-Nagot</a>. I was previously a Temporary Lecturer at CY Cergy Paris Université and <a href="https://thema.u-cergy.fr/">THEMA</a>.
 </p>
 
 <p align="justify"> 
-As an applied economist in urban and labor economics, I am interested in understanding and exploring the inequalities that arise from the interaction of these two fields. My on-going research projects focus on neighborhood effects in job search behaviors, wage compensation for housing costs, and the role of unaffordable housing in shaping labor market trajectory disparities.
+As an applied economist in urban and labor economics, I am interested in understanding and exploring the inequalities that arise from the interaction of these two fields. My on-going projects focus on neighborhood effects in job search behaviors, wage compensation for housing costs, and the role of unaffordable housing in shaping disparities in labor market trajectories.
+</p>
+
+<p align="justify"> 
+In continuity with this research agenda, my postdoctoral project explores structural transformations of urban territories, examining the impact of large retail store openings on local employment, urban morphology, and socio-economic outcomes in medium-sized French cities.
 </p>
