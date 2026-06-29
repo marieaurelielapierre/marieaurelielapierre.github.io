@@ -36,8 +36,8 @@ interests = [
   icon = "github"
   link = "https://github.com/adfaure"
 +++
-<p align="justify"> 
-Welcome to my website! I am Marie Aurélie Lapierre, a postdoctoral researcher at Université Paris Dauphine-PSL (<a href="https://leda.dauphine.fr/">LEDa</a>), under <a href="https://sites.google.com/view/laurakhoury/home">Laura Khoury</a>'s Junior Professor Chair. I recently obtained my PhD from Université Lumière Lyon 2 and <a href="https://www.gate.cnrs.fr/en/">GATE-LSE</a>, under the supervision of <a href="https://www.cergic-lyon.fr/florence-goffette-nagot">Florence Goffette-Nagot</a>. I was previously a Temporary Lecturer at CY Cergy Paris Université and <a href="https://thema.u-cergy.fr/">THEMA</a>.
+<p align="justify">
+Welcome to my website! I am Marie Aurélie Lapierre, a postdoctoral researcher at Université Paris Dauphine-PSL (<a href="https://leda.dauphine.fr/">LEDa</a>), under <a href="https://sites.google.com/view/laurakhoury/home">Laura Khoury</a>'s Junior Professor Chair. I obtained my PhD from Université Lumière Lyon 2 and <a href="https://www.gate.cnrs.fr/en/">GATE-LSE</a>, under the supervision of <a href="https://www.cergic-lyon.fr/florence-goffette-nagot">Florence Goffette-Nagot</a>. During my PhD, I also served as a Temporary Lecturer at CY Cergy Paris Université and <a href="https://thema.u-cergy.fr/">THEMA</a>.
 </p>
 
 <p align="justify"> 

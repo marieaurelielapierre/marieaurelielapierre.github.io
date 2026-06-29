@@ -21,4 +21,4 @@ We also find effects of neighbors' occupations. Our findings suggest that local 
 incentives to search when unemployed neighbors are actively searching and employed neighbors hold higher-status jobs.
 </p>
 
-**Submitted**
+**R&R at the Journal of Economic Behavior & Organizations.**
